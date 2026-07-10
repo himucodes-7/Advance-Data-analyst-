@@ -27,7 +27,7 @@ This phase focuses on taking those initial findings and doing deeper dives to fi
 * `/Data_Sets`: Where the raw data lives.
 * `/SQL_Query`: Contains the analysis steps, starting with the EDA phase.
 * `/reports`: Summaries and final dashboards showing the results.
-* * `/docs`: Contains the Documentation & diagrams.
+* `/docs`: Contains the Documentation & diagrams.
 
 ## Tools I Used
 * **Languages:** Python / SQL
