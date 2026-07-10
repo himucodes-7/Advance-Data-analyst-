@@ -43,7 +43,7 @@ This phase focuses on taking those initial findings and doing deeper dives to fi
 2. Install the required packages: `SQL Server Management Studio 21`
 3. In these sql query i use database name of `DataWarehouseAnalytics`, So make database with the same name and load these datasets under it than you can run all those queries, if you want to change the name of database than be aware at the time of query execution.   
 4. Dive into the notebooks starting with the `SQL_Query/EDA.sql` file.
-5. data Source: Data_with_baara `https://www.datawithbaraa.com/wiki/sql`
+5. data Source: Data_with_baara https://www.datawithbaraa.com/wiki/sql
 
 ## 👨‍💻 Author
 
