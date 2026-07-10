@@ -1,6 +1,6 @@
-# Data Analytics Project
+# SQL Data Analytics Project
 
-This project covers a full data analytics workflow, divided into two main parts: **Exploratory Data Analysis (EDA)** and **Advanced Analytics**. The goal is to show the entire process from understanding raw data to generating deeper, actionable insights.
+This project covers a full data analytics workflow, divided into two main parts: **Exploratory Data Analysis (EDA)** and **Advanced Analytics**. The goal is to show the entire process from understanding raw data to generating deeper, actionable insights. In this project i take sales dataset and do analysis on it with the help of SQL  
 
 ## Project Structure
 
@@ -30,13 +30,12 @@ This phase focuses on taking those initial findings and doing deeper dives to fi
 * `/docs`: Contains the Documentation & diagrams.
 
 ## Tools I Used
-* **Languages:** Python / SQL
-* **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
-* **Tools:** Power BI / Tableau (or whatever tools you are actually using)
+* **Languages:** SQL
+* **Database :** SQL Server Management Studio 21
 
 ## Getting Started
-1. Clone this repo: `git clone [your-repo-link]`
-2. Install the required packages: `pip install -r requirements.txt`
+1. Clone this repo: `git clone [https://github.com/himucodes-7/Advance-Data-analyst-/edit/main/README.md]`
+2. Install the required packages: `SQL Server Management Studio 21`
 3. Dive into the notebooks starting with the `EDA_Phase.ipynb` file.
 
 ---
