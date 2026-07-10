@@ -41,8 +41,9 @@ This phase focuses on taking those initial findings and doing deeper dives to fi
 ## Getting Started
 1. Clone this repo: `git clone [https://github.com/himucodes-7/Advance-Data-analyst-/edit/main/README.md]`
 2. Install the required packages: `SQL Server Management Studio 21`
-3. Dive into the notebooks starting with the `SQL_Query/EDA.sql` file.
-4. data Source: Data_with_baara `https://www.datawithbaraa.com/wiki/sql`
+3. In these sql query i use database name of `DataWarehouseAnalytics`, So make database with the same name and load these datasets under it than you can run all those queries, if you want to change the name of database than be aware at the time of query execution.   
+4. Dive into the notebooks starting with the `SQL_Query/EDA.sql` file.
+5. data Source: Data_with_baara `https://www.datawithbaraa.com/wiki/sql`
 
 ## 👨‍💻 Author
 
