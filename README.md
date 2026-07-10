@@ -1,4 +1,4 @@
-# SQL Data Analytics Project
+# 📊SQL Data Analytics Project
 
 This project covers a full data analytics workflow, divided into two main parts: **Exploratory Data Analysis (EDA)** and **Advanced Analytics**. The goal is to show the entire process from understanding raw data to generating deeper, actionable insights. In this project i take sales dataset and do analysis on it with the help of SQL  
 
@@ -29,6 +29,11 @@ This phase focuses on taking those initial findings and doing deeper dives to fi
 * `/reports`: Summaries and final dashboards showing the results.
 * `/docs`: Contains the Documentation & diagrams.
 
+🎯 Objectives
+- By the use of SQL how to do Data analyst
+- Understand your data by Exploratory Data Analysis (EDA)
+- Than do Advance Analytics 
+
 ## Tools I Used
 * **Languages:** SQL
 * **Database :** SQL Server Management Studio 21
@@ -36,7 +41,18 @@ This phase focuses on taking those initial findings and doing deeper dives to fi
 ## Getting Started
 1. Clone this repo: `git clone [https://github.com/himucodes-7/Advance-Data-analyst-/edit/main/README.md]`
 2. Install the required packages: `SQL Server Management Studio 21`
-3. Dive into the notebooks starting with the `EDA_Phase.ipynb` file.
+3. Dive into the notebooks starting with the `SQL_Query/EDA.sql` file.
+4. data Source: Data_with_baara `https://www.datawithbaraa.com/wiki/sql`
+
+## 👨‍💻 Author
+
+**Himanshu Kumar**
+
+GitHub: https://github.com/himucodes-7
+
+LinkedIn: https://www.linkedin.com/in/himanshu-kumar-aiml/
+
+---
 
 ---
 *If you have any feedback or want to chat about the approach, feel free to open an issue or reach out!*
