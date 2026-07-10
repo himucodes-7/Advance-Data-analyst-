@@ -20,8 +20,7 @@ This phase focuses on taking those initial findings and doing deeper dives to fi
 * **Part-to-Whole:** Looking at compositions and proportions (e.g., market share or category breakdown).
 * **Data Segmentation & Reporting:** Grouping users/products for targeted insights and presenting them in clear reports.
 
-![Data Analyst Diagram](docs/freespace) 
-
+![Data Analyst Diagram](docs/Project Roadmap.png) 
 ---
 
 ## How it works
